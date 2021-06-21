@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/lru-cache": "^5.1.0",
+    "@types/node-fetch": "^2.5.10",
+    "lru-cache": "^6.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
