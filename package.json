@@ -1,4 +1,6 @@
 {
+  "version": "0.0.1",
+  "main": "dist/index.js",
   "dependencies": {
     "@types/lru-cache": "^5.1.0",
     "@types/node-fetch": "^2.5.10",
@@ -7,6 +9,6 @@
     "typescript": "^4.3.4"
   },
   "scripts": {
-    "tsc": "tsc -p . --outDir dist"
+    "compile": "tsc -p . --outDir dist"
   }
 }
