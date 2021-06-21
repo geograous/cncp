@@ -70,6 +70,11 @@ node-fetch@^2.6.1:
   resolved "http://npm.poizon.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha1-BFvTI2Mfdu0uK1VXM5RBa2OaAFI=
 
+typescript@^4.3.4:
+  version "4.3.4"
+  resolved "http://npm.poizon.com/typescript/-/typescript-4.3.4.tgz#3f85b986945bcf31071decdd96cf8bfa65f9dcbc"
+  integrity sha1-P4W5hpRbzzEHHezdls+L+mX53Lw=
+
 yallist@^4.0.0:
   version "4.0.0"
   resolved "http://npm.poizon.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
