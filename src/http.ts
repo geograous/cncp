@@ -3,8 +3,8 @@ import fetch from "node-fetch";
 import { getKey, setKey } from './cache'
 import { getPathValue, validateNotEmpty } from './util'
 
-export const BasePrefix = "https://cdn.geograous.com/node-common/custom-config/";
-export const MetaPrefix = "https://cdn.geograous.com/node-common/custom-config-meta/"
+export const BasePrefix = "https://cdn.geograous.com/config/";
+export const MetaPrefix = "https://cdn.geograous.com/config-meta/"
 
 // update data
 export function update(urlPath: string, data?: any, prefix = BasePrefix) {
